@@ -1,7 +1,6 @@
 language: rust
 rust:
   - stable
-  - bata
   - nightly
 matrix:
   allow_failures:
